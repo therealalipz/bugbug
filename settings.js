@@ -1,4 +1,4 @@
-global.nomerOwner = "6281949157040"
+global.nomerOwner = "601128654242"
 global.ownerName = "deva-maker"
 global.botName = "Bot By deva-maker"
 global.sessionName = "session" 
